@@ -33,7 +33,7 @@ ___________________________________________________________________
 
 <h3> Como utilizar este repo:</h3>
 
-1- Descargar el repo
+1- Descargar el repo. Se recomienda opción Download Zip.
 
 2- Compilar y ejecutar el programa
 
