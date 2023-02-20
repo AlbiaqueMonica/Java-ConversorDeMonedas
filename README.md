@@ -1,7 +1,8 @@
 # Java-ConversorDeMonedas
-Conversor de divisas utilizando el lenguaje Java.
+<h2>Proyecto Conversor</h2>
+Challenge de la ruta backend con Java en Oracle Alura.
 
-✨ El desafío indica los siguientes requisitos:
+<h3>Requisitos del desafío:</h3>
 
  ✔ Convertir de la moneda de tu país a Dólar:
  <ul>  
@@ -20,3 +21,34 @@ Conversor de divisas utilizando el lenguaje Java.
  </ul>
  ✔  Extras:
     Añadir otros tipos de conversiones como temperatura, etc.
+
+___________________________________________________________________
+
+<h3>Funcionalidades desarrolladas:</h3>
+Conversor de monedas (PEN, USD, EUR, MXN, COP)
+
+Conversor de medidas (CM, M, KM)
+
+___________________________________________________________________
+
+<h3> Como utilizar este repo:</h3>
+
+1- Descargar el repo
+
+2- Compilar y ejecutar el programa
+
+✔ Ingresar a la carpeta del programa
+
+cd carpeta-del-proyecto/src
+
+✔ Compilar el código
+
+javac Converter.java
+
+✔ Ejecutar el programa
+
+java Converter
+
+___________________________________________________________________
+
+<h3> Pantallas del Programa: </h3>
