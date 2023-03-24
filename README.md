@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# prueba
-=======
+
 # Java-ConversorDeMonedas
 <h2>Proyecto Conversor</h2>
 Challenge de la ruta backend con Java en Oracle Alura.
