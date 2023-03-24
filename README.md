@@ -1,6 +1,7 @@
 # Java-ConversorDeMonedas
 <h2>Proyecto Conversor</h2>
 Challenge de la ruta backend con Java en Oracle Alura.
+Realizado con lenguaje Java en IDE Eclipse.
 
 <h3>Requisitos del desafío:</h3>
 
@@ -23,7 +24,6 @@ Challenge de la ruta backend con Java en Oracle Alura.
     Añadir otros tipos de conversiones como temperatura, etc.
 
 ___________________________________________________________________
-
 
 <h3> Como utilizar este repo:</h3>
 
@@ -57,4 +57,9 @@ Demo
 
 
 https://user-images.githubusercontent.com/72052340/227443395-50243813-be6b-4a12-8885-82d8779c5969.mp4
+
+Próxima versión objetivo:
+
+![image](https://user-images.githubusercontent.com/72052340/227446021-6b272489-ee4a-4e99-85a3-a41b28245570.png)
+
 
