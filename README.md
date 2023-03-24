@@ -24,12 +24,6 @@ Challenge de la ruta backend con Java en Oracle Alura.
 
 ___________________________________________________________________
 
-<h3>Funcionalidades desarrolladas:</h3>
-Conversor de monedas (PEN, USD, EUR, MXN, COP)
-
-Conversor de medidas (CM, M, KM)
-
-___________________________________________________________________
 
 <h3> Como utilizar este repo:</h3>
 
