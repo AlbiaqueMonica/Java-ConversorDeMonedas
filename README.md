@@ -64,4 +64,4 @@ Próxima versión objetivo:
 ![image](https://user-images.githubusercontent.com/72052340/227446021-6b272489-ee4a-4e99-85a3-a41b28245570.png)
 
 
->>>>>>> branch 'master' of https://github.com/AlbiaqueMonica/Java-ConversorDeMonedas.git
+
